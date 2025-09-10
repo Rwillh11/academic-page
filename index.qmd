@@ -4,7 +4,8 @@ title: "Home"
 
 # Will Horne
 
-Short bio goes here. (We’ll paste your real text later.)
+<!-- Paste your real short bio here. You can edit this file anytime. -->
 
 [Download My CV](files/Horne_CV.pdf){.btn .btn-primary}
 
+![](images/headshot.jpg){fig-alt="Headshot of Will Horne" width="35%"}
