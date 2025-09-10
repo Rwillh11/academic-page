@@ -1,0 +1,9 @@
+---
+title: "Resources"
+---
+
+## Materials
+
+- [Curriculum Vitae (PDF)](files/Horne_CV.pdf)
+- [Sample Syllabus: Representation and Inequality in Democratic Societies](files/sample_syllabus_representation.pdf)
+- [Sample Syllabus: Text-as-Data for Social Scientists](files/sample_syllabus_textasdata.pdf)
