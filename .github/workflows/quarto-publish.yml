@@ -11,9 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Debug: list repo contents
+        run: |
+          pwd
+          ls -la
+
       - uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render
-        run: quarto render
+
+      - name: Render pages explicitly
+        run: |
+          quarto --version
+          quarto render index.qmd
+          quarto render research.qmd
+          quarto render teaching.qmd
+          quarto render resources.qmd
+
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
