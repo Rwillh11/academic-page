@@ -1,0 +1,20 @@
+---
+title: "Teaching"
+---
+
+## Teaching
+
+This spring, I am teaching **POSC 8410**, the second course in the Clemson’s PhD methods sequence. I am also teaching **POSC 3710, European Politics**.
+
+At Clemson, I have taught the following classes:
+
+- **POST 8000: Introduction to Social Science Research Methods** – first course in the graduate methods sequence, introducing probability theory, statistics, and basic research design. Taught using R.
+
+At Georgia State, I have taught:
+
+- **POL4900: Representation and Inequality in Democratic Societies** – examines why some groups are less represented, exploring descriptive vs. substantive representation, inequality, and institutional reforms.
+- **POL8820: Text-as-Data for Social Scientists** – covers text-data methods: descriptive representation, topic models, embeddings, supervised classification, and transformer models like BERT/GPT.
+
+At Princeton, I taught:
+
+- **POL 981: The Junior Independent Work Research Design Seminar (Fall 2017 & Fall 2018)** – original research design content (statistical, experimental, qualitative methods). Awarded the George Kateb Prize.
