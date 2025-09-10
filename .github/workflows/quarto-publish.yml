@@ -1,35 +1,31 @@
 name: Quarto Publish
+
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+
 permissions:
   contents: write
   pages: write
   id-token: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Debug: list repo contents
-        run: |
-          pwd
-          ls -la
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
 
-      - uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Render pages explicitly
-        run: |
-          quarto --version
-          quarto render index.qmd
-          quarto render research.qmd
-          quarto render teaching.qmd
-          quarto render resources.qmd
+      - name: Render site
+        run: quarto render
 
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          publish_dir: _site
           publish_branch: gh-pages
