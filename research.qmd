@@ -1,0 +1,36 @@
+---
+title: "Research"
+---
+
+## Peer-Reviewed Journal Articles
+
+- Gidron, Noam, Will Horne, Thomas Tichelbaecker and James Adams (Forthcoming, 2025), “Beyond observational relationships: Evidence from a ten-country experiment that policy disputes cause affective polarization”, British Journal of Political Science  
+- Balogh, Timea, Will Horne, James Adams, Simon Weschle and Christopher Wlezien (2024), “Does Political Sophistication Moderate How Citizens Infer Left-Right Distances between Political Parties”, Journal of Elections, Parties and Public Opinion  
+- Tichelbaecker, Thomas, Will Horne, Noam Gidron and James Adams (2024), “What do we measure when we measure affective polarization across countries?”, Public Opinion Quarterly  
+- Horne, Will, James Adams and Noam Gidron (2023), “The Way we Were: How Histories of Co-Governance Alleviate Partisan Hostility.” Comparative Political Studies  
+- Hudde, Ansgar, Will Horne, Noam Gidron and James Adams (2023), “How Warm Are Partisan Political Interactions? A Frequency-based Measure of Affective Fractionalization”, PLOS One  
+- Adams, James, David Bracken, Noam Gidron, Will Horne, Diana O’Brien and Kaitlin Senk (2022), “Can’t We All Just Get Along? How Women MPs Can Ameliorate Affective Polarization in Western Publics,” American Political Science Review  
+- Gidron, Noam, James Adams and Will Horne (2022), “Who Dislikes Whom: Affective Polarization between Pairs of Parties in Western Democracies”, British Journal of Political Science  
+- Fuller, Sam, Will Horne, James Adams and Noam Gidron (2022), “Populism and the Affective Partisan Space in Eight European Publics: Evidence from a Cross-National Survey.” Frontiers in Political Science (Special Issue on Affective Polarization)
+
+## Book
+
+- Gidron, Noam, James Adams and Will Horne (2020), *American Affective Polarization in Comparative Perspective*. Cambridge University Press
+
+## Book Chapters
+
+- Boix, Carles, Will Horne and Alex Kerchner (2020), “The Formation and Development of Liberal Democracy” in *The Oxford Handbook of Political Representation in Liberal Democracies*  
+- Horne, Will, James Adams and Noam Gidron (Forthcoming), “The Economy and Affective Polarization” in *Elgar Handbook of Affective Polarization*
+
+## Datasets
+
+- Dolinsky, Alona, Lena Maria Huber and Will Horne, “ManifestoVault V1.0: Annotated full-text general election manifestos at the natural-sentence level of three European countries 1970–2021”, DataverseNL (DOI link)
+
+## Working Papers
+
+- Horne, Will (Under Review), “Changing the Face of the Party: How Political Parties Use Candidate Selection to Influence Voter Perceptions.”  
+- Horne, Will (Under Review), “How are working class candidates different? Evidence from a quantitative text analysis of campaign materials”  
+- Adams, James, David Bracken, Noam Gidron, Will Horne, Seonghui Lee, Diana O’Brien, Philip Santoso, Kaitlin Senk, and Randolph Stevenson (Under Review), “Do Woman MPs Influence Party’s Policy Images?”  
+- Horne, Will, Gregory Love and Ryan Carlin, “Is your classifier bilingual? Using Large Language Models for Cross-Lingual Classification” (APSA 2023)  
+- Dolinsky, Alona, Lena Maria Huber and Will Horne, “Parties Group Appeals Across Space and Time” (EPSA 2023)  
+- Carlin, Ryan, Jonathan Hartlyn, Timothy Hellwig, Will Horne, Gregory Love, Cecilia Martinez Gallardo and Matthew Singer, “Executive Approval in Times of Crisis.” (APSA 2023)
