@@ -7,3 +7,4 @@ title: "Home"
 Short bio goes here. (We’ll paste your real text later.)
 
 [Download My CV](files/Horne_CV.pdf){.btn .btn-primary}
+
