@@ -4,8 +4,9 @@ title: "Home"
 
 # Will Horne
 
-<!-- Paste your real short bio here. You can edit this file anytime. -->
+I am an Assistant Professor in Political Science at Clemson University. I received my PhD from Princeton University in the Department of Politics in May of 2022, and was a Post-Doctoral Fellow with the Executive Approval Project from 2022-2024. My work has been published in the <i> American Political Science Review </i>, the British Journal of Political Science, Comparative Political Studies and Public Opinion Quarterly, among other outlets. My research has been featured in The New York Times, FiveThirtyEight, Foreign Policy and the Washington Post’s Monkey Cage.  I am also a core team member of the Executive Approval Project.
+
+My research focuses on changes in the structure of political competition and representation in advanced democratic societies. My dissertation examines how and when political parties choose to provide quality descriptive and substantive representation to members of their electoral coalitions - and when they chose to leave some groups out. Methodologically, I have a particular interest in the use of Natural Language Processing techniques to study political parties and candidates.
 
 [Download My CV](files/Horne_CV.pdf){.btn .btn-primary}
 
-![](images/headshot.jpg){fig-alt="Headshot of Will Horne" width="35%"}
